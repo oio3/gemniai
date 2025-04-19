@@ -1,1 +1,1 @@
-# gemniai
+"# gemini-api" 
